@@ -7,13 +7,13 @@ sidebar:
 <cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
-**Cognitive psychology** is the scientific investigation of human cognition, that is, all our mental abilities – perceiving, learning, remembering, thinking, reasoning, and understanding. The term "cognition" stems from the Latin word " cognoscere" or "to know". Fundamentally, cognitive psychology studies how people acquire and apply knowledge or information. It is closely related to the highly interdisciplinary field of cognitive science and influenced by artificial intelligence, computer science, philosophy, anthropology, linguistics, biology, physics, and neuroscience.   
+**Cognitive psychology** is the scientific investigation of human cognition, that is, all our mental abilities – perceiving, learning, remembering, thinking, reasoning, and understanding. The term "cognition" stems from the Latin word "cognoscere" -- "to know". Fundamentally, cognitive psychology studies how people acquire and apply knowledge or information. It is closely related to the highly interdisciplinary field of cognitive science and influenced by artificial intelligence, computer science, philosophy, anthropology, linguistics, biology, physics, and neuroscience.   
 
 ##  History
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/boring.jpg" alt="Photo of Boring's book on the History of Psychology.">
-    <figcaption> That citation to Boring is legit: a prominant psychologist named Edwin Boring wrote a classic book on the history of psychology. [1]</figcaption>
+    <figcaption> That citation to Boring is legit: a prominant psychologist named Edwin Garrigues Boring wrote a classic book on the history of psychology. [1]</figcaption>
 </figure>
 
 Cognitive psychology in its modern form incorporates a remarkable set of new technologies in psychological science. Although published inquiries of human cognition can be traced back at least as far as the ancient Greeks (e.g., [Aristotle's *De Memoria*](http://classics.mit.edu/Aristotle/memory.html) in 350 B.C.E; Hothersall, 1984), the intellectual origins of cognitive psychology began with cognitive approaches to psychological problems at the end of the 1800s and early 1900s in the works of Wundt, Cattell, and William James (Boring, 1950). 
@@ -24,7 +24,7 @@ Cognitive psychology declined in the first half of the 20th century with the ris
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/intro-man-inside-note-head.jpg" alt="Drawing of a Homunculus kind of guy inside a head, looking at papers. Illustration by Frits Ahlefeldt.">
     <figcaption> If you have ever wondered about your mind, then you probably asked a question that cognitive psychology is interested in answering. [2]</figcaption>
 </figure>
-The Cognitive Revolution began in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures (Miller, 1956; Broadbent, 1958; Chomsky, 1959; Newell, Shaw, & Simon, 1958). Cognitive psychology became predominant in the 1960s (Tulving, 1962; Sperling, 1960). Ulric Neisser (1967) is typically credited with popularizing the term “Cognitive Psychology” in his 1967 textbook. 
+The Cognitive Revolution began in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures (Miller, 1956; Broadbent, 1958; Chomsky, 1959; Newell et al., 1958). Cognitive psychology became predominant in the 1960s (Tulving, 1962; Sperling, 1960). Ulric Neisser (1967) is typically credited with popularizing the term “Cognitive Psychology” in his 1967 textbook. 
 
 Neisser defined cognition as:
 > "…all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used."
@@ -37,7 +37,12 @@ Neisser’s criticism also remains current: we will encounter examples of resear
 
 ##  Assumptions
 
-Cognitive psychology is based on two assumptions: (1) Human cognition can at least in principle be fully revealed by the scientific method, that is, individual components of mental processes can be identified and understood, and (2) Internal mental processes can be described in terms of rules or algorithms in information processing models. There has been much debate on these assumptions (Costall and Still, 1987; Dreyfus, 1979; Searle, 1990). 
+Cognitive psychology is based on two assumptions: 
+
+1. Human cognition can at least in principle be fully revealed by the scientific method, that is, individual components of mental processes can be identified and understood.
+2. Internal mental processes can be described in terms of rules or algorithms in information processing models. 
+
+Although these assumptions have been debated (Costall and Still, 1987; Dreyfus, 1979; Searle, 1990), they underlie most cognitive psychological research. 
 
 ##  Approaches
 
@@ -71,7 +76,7 @@ Traditionally, cognitive psychology includes human perception, attention, learni
 
 Cognitive psychology research has produced an extensive body of principles, representations, and algorithms. Successful applications range from custom-built expert systems to mass-produced software and consumer electronics: (1) Development of computer interfaces that collaborate with users to meet their information needs and operate as intelligent agents, (2) Development of a flexible information infrastructure based on knowledge representation and reasoning methods, (3) Development of smart tools in the financial industry, (4) Development of mobile, intelligent robots that can perform tasks usually reserved for humans, (5) Development of bionic components of the perceptual and cognitive neural system such as cochlear and retinal implants. 
 
-However, it is important to realize that cognitive research has not always had uniformly positive implications for society and there are examples where research applications negatively impacted specific groups of people (Prather et al., 2022). For example, research on mental imagery and the early development of intelligence testing were strongly influenced by the widespread eugenics movement of the time. This era of psychology made a deep impression on subsequent cognitive research, which raises important questions about how psychological research is and should be conducted and applied.
+However, it is important to realize that cognitive research has not always had uniformly positive implications for society and there are examples where research applications negatively impacted specific groups of people (Prather et al., 2022; Thomas et al., 2023). For example, research on mental imagery and the early development of intelligence testing were strongly influenced by the widespread eugenics movement of the time. This era of psychology made a deep impression on subsequent cognitive research, which raises important questions about how psychological research is and should be conducted and applied.
 
 ## Image credits
 1. Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -149,6 +154,7 @@ However, it is important to realize that cognitive research has not always had u
 * Skinner, B. F. (1950) Are theories of learning necessary? Psychological Review 57: 193-216. 
 * Sperling, G. (1960). The information available in brief visual presentations. Psychological Monographs, 74 1-29. 
 * Squire, L. R., Zola, S. M. (1996) Structure and function of declarative and non-declarative memory systems. Proceedings of the National Academy of Sciences 93:. 
+* Thomas, A. K., McKinney de Royston, M., & Powell, S. (2023). Color-evasive cognition: The unavoidable impact of scientific racism in the founding of a field. Current Directions in Psychological Science, 32, 137-144.
 * Thompson, R. F. (1986) The neurobiology of learning and memory. Science 29: 941 – 947. 
 * Tinklepaugh, O. L. (1928) An experimental study of representative factors in monkeys, Journal of Comparative Psychology 8: 197–236. 
 * Treisman, A. M. (1969) Strategies and models of selective attention. Psychological Review 76: 282-299. 
