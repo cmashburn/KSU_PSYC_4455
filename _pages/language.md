@@ -7,7 +7,7 @@ sidebar:
 <cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
-Human language is arguably the most complex behavior on the planet. Language involves both the ability to comprehend spoken and written words and to create communication in real time when we speak or write. Most languages are oral, generated through speaking. Speaking involves a variety of complex cognitive, social, and biological processes including operation of the vocal cords, and the coordination of breath with movements of the throat and mouth, and tongue. Other languages are sign languages, in which the communication is expressed by movements of the hands. The most common sign language is American Sign Language (ASL), currently spoken by more than 500,000 people in the United States alone.
+Human language is arguably the most complex behavior on the planet. Language involves both the ability to comprehend spoken and written words and to create communication in real time when we speak or write. Most languages are oral, generated through speaking. Speaking involves a variety of complex cognitive, social, and biological processes including operation of the vocal cords, and the coordination of breath with movements of the throat and mouth, and tongue. Other languages are sign languages, in which the communication is expressed by movements of the hands. The most commonly signed sign language is [American Sign Language (ASL)](https://www.nidcd.nih.gov/health/american-sign-language), currently used by nearly 3% of the adult population in the United States alone (Mitchell & Young, 2022). 
 
 ## Learning Objectives
 * Define language and demonstrate familiarity with the components of language
@@ -267,6 +267,7 @@ Syntax
 * Liberman, A.M. (1957). Some results of research on speech perception. Journal of the Acoustical Society of America. 29 (1): 117–123
 * Lisker, L., Abramson, A.S. (1970). The voicing dimension: Some experiments in comparative phonetics. Proc. 6th International Congress of Phonetic Sciences. Prague: Academia. pp. 563–567.
 * Maass, A., Salvi, D., Arcuri, L., & Semin, G. (1989). Language use in intergroup contexts: The linguistic intergroup bias. Journal of Personality and Social Psychology, 57, 981–993.
+* Mitchell, R.E. & Young, T.A. (2022). How many people use sign language? A national health survey-based estimate. Working Paper No. DRC2022.2, Gallaudet University.
 * Nygaard, L.C., Pisoni, D.B. (1995). "Speech Perception: New Directions in Research and Theory". In J.L. Miller; P.D. Eimas (eds.). Handbook of Perception and Cognition: Speech, Language, and Communication. San Diego: Academic Press.
 * Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral and Brain Sciences, 27, 169–226.
 * Reicher, G. M. (1969). Perceptual recognition as a function of meaningfulness of stimulus material. J. Exp. Psychol. 81, 275–280.
