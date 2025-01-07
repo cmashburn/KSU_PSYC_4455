@@ -21,6 +21,7 @@ Before we begin exploring attention in its various forms, take a moment to consi
 William James wrote extensively about attention in the late 1800s. An often quoted passage beautifully captures how intuitively obvious the concept of attention is, while it remains very difficult to define in measurable, concrete terms:
 
 > Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others. 
+> 
 > --James (1890/1983) pp. 381–382
 
 Notice that this description touches on the conscious nature of attention, as well as the notion that what is in consciousness is often controlled voluntarily but can also be determined by events that capture our attention. Implied in this description is the idea that we seem to have a **limited capacity** for information processing, and that we can only attend to or be consciously aware of a small amount of information at any given time.

@@ -18,7 +18,7 @@ sidebar:
 
 Cognitive psychology in its modern form incorporates a remarkable set of new technologies in psychological science. Although published inquiries of human cognition can be traced back at least as far as the ancient Greeks (e.g., [Aristotle's *De Memoria*](http://classics.mit.edu/Aristotle/memory.html) in 350 B.C.E; Hothersall, 1984), the intellectual origins of cognitive psychology began with cognitive approaches to psychological problems at the end of the 1800s and early 1900s in the works of Wundt, Cattell, and William James (Boring, 1950). 
 
-Cognitive psychology declined in the first half of the 20th century with the rise of "behaviorism" –- the study of laws relating observable behavior to objective, observable stimulus conditions without any recourse to internal mental processes (Watson, 1913; Boring, 1950; Skinner, 1950). The refusal to consider internal mental processes was one of behaviorism's undoings. For example, lack of understanding of the internal mental processes led to no distinction between memory and performance and failed to account for complex learning (Tinklepaugh, 1928; Chomsky, 1959). These issue led to the decline of behaviorism as the dominant branch of scientific psychology and to the "Cognitive Revolution". 
+Cognitive psychology declined in the first half of the 20th century with the rise of "behaviorism" –- the study of laws relating observable behavior to objective, observable stimulus conditions without any recourse to internal mental processes (Watson, 1913; Skinner, 1950). Behaviorism was successful in many ways, in part because focusing on measurable laws of behaviour allowed psychology to transform itself into a more objective scientific field. However, the refusal to consider internal mental processes turned out to be one of behaviorism's undoings. For example, lack of understanding of the internal mental processes led to no distinction between memory and performance and failed to account for complex learning (Tinklepaugh, 1928; Chomsky, 1959). These issue led to the decline of behaviorism as the dominant branch of scientific psychology and to the "Cognitive Revolution". 
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:45%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/intro-man-inside-note-head.jpg" alt="Drawing of a Homunculus kind of guy inside a head, looking at papers. Illustration by Frits Ahlefeldt.">
@@ -27,11 +27,11 @@ Cognitive psychology declined in the first half of the 20th century with the ris
 The Cognitive Revolution began in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures (Miller, 1956; Broadbent, 1958; Chomsky, 1959; Newell et al., 1958). Cognitive psychology became predominant in the 1960s (Tulving, 1962; Sperling, 1960). Ulric Neisser (1967) is typically credited with popularizing the term “Cognitive Psychology” in his 1967 textbook. 
 
 Neisser defined cognition as:
-> "…all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used."
+> …all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used.
 
-Neisser’s definition of cognition remains current in many respects, but is also somewhat limited to a particular information processing view of cognition (discussed later). Neisser had an expansive view of what cognitive research *could* accomplish, but a somewhat pessimistic take on what it actually *has* accomplished. Here is another Neisser quote:
+Neisser’s definition of cognition remains current in many respects, but is also somewhat limited to a particular information processing view of cognition (discussed later). Neisser had an expansive view of what cognitive research *could* accomplish, but a somewhat pessimistic take on what it actually *has* accomplished. Here is another Neisser quote (from “Remembering the Father of Cognitive Psychology,” 2012):
 
-> “If X is an interesting or socially important aspect of memory, then psychologists have hardly ever studied X”. (“Remembering the Father of Cognitive Psychology,” 2012)
+> If X is an interesting or socially important aspect of memory, then psychologists have hardly ever studied X.
 
 Neisser’s criticism also remains current: we will encounter examples of research that Neisser might have criticized for being uninteresting or not socially important. And, even though a great deal of research has been conducted, many interesting and socially relevant aspects of cognition remain under investigated. Cognitive Psychology is still very much in-progress.
 
