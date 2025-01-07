@@ -2,7 +2,7 @@ docs:
   - title: Contents
     url: https://bobsthinktank.github.io/PSYC341OER/
     children:
-      - title: Introduction
+      - title: Introduction and History
         url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Sensation and Perception
         url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception.html
