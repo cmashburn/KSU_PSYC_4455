@@ -64,6 +64,15 @@ Marr likened visual processing to information processing in a computer system, a
 
 3. *Hardware implementation level.* At the hardware implementation level, we consider how representations and algorithms are physically instantiated and implemented. For instance, what physical elements and processes enable an eye to convert light into electrical signals? Likewise, what physical elements and processes allow a digital camera to capture images and store them in computer memory?
 
+<figure>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/marr_fig.jpg" alt="Example of Marr's levels of analysis.">
+    <figcaption> How bird flight might be analyzed based on Marr's three levels. [3]</figcaption>
+</figure>
+
+
+ We need to know that the bird’s goal is to fly (computation), which it does by flapping its wings (algorithm), where the aerodynamics of flying depend on the feathers (implementation).
+ 
+ 
 Of course, it would be great to have explanations that span all three levels of analysis, but that's a tall order! Practically, much can be gained by focusing on a single level of analysis. For example, classical genetics allows us to predict how inherited traits are distributed without an understanding of DNA. More generally, as suggested above, explanations at one level can be "multiply realized" at other levels. That is, there are many potential implementations for a given algorithm and many potential algorithms for a given computational goal. For example, if I have a (computational level) goal to travel to the beach, I can realize that goal algorithmically by driving a car, flying in an airplane, maybe riding a bike, etc. And if I drive, I could realize that algorithm by relying on power stemming from a series of controlled explosions in an internal combustion engine or on power stemming from the conversion of chemical energy to electricity in an electric engine. Thus an explanation at one level of analysis can be (at least somewhat) independent from explanations at other levels.
 
 ##  Approaches
@@ -103,6 +112,7 @@ However, it is important to realize that cognitive research has not always had u
 ## Image credits
 1. Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 2. Frits Ahlefeldt, https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+3. Modeled after Figure 1 from Lockwood, Apps, & Chang (2020) by Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 {: .small}
 
 ##  References
