@@ -245,16 +245,17 @@ Storage
 {: .small}
 
 ## Image credits:
-1. M Cruz, https://goo.gl/DhOMgp, [CC BY-SA 4.0](https://goo.gl/SWjq94)
-2. karpidis, https://goo.gl/EhzMKM, [CC BY-SA 2.0](https://goo.gl/jSSrcO)
-3. Colin J Babb, https://goo.gl/Cci2yl, [CC BY-SA 2.0](https://goo.gl/jSSrcO)
-4. psd, https://goo.gl/9xjcDe, [CC BY 2.0](https://goo.gl/9uSnqN)
-5. Simon Bierdwald, https://goo.gl/JDhdCE, [CC BY-NC-SA 2.0](https://goo.gl/jSSrcO)
-6. Ores2k, https://goo.gl/1du8Qe, CC BY-NC-SA 2.0, https://goo.gl/jSSrcO
-7. Kelidimari, https://goo.gl/kiA1kP, CC BY-SA 3.0, https://goo.gl/SCkRfm
+1. [M Cruz](https://goo.gl/DhOMgp), [CC BY-SA 4.0](https://goo.gl/SWjq94)
+2. [karpidis](https://goo.gl/EhzMKM), [CC BY-SA 2.0](https://goo.gl/jSSrcO)
+3. [Colin J Babb](https://goo.gl/Cci2yl), [CC BY-SA 2.0](https://goo.gl/jSSrcO)
+4. [psd](https://goo.gl/9xjcDe), [CC BY 2.0](https://goo.gl/9uSnqN)
+5. [Simon Bierdwald](https://goo.gl/JDhdCE), [CC BY-NC-SA 2.0](https://goo.gl/jSSrcO)
+6. [Ores2k](https://goo.gl/1du8Qe), [CC BY-NC-SA 2.0](https://goo.gl/jSSrcO)
+7. [Kelidimari](https://goo.gl/kiA1kP), [CC BY-SA 3.0](https://goo.gl/SCkRfm)
 {: .small}
 
 ## Adapted from 
 * McDermott, K. B. & Roediger, H. L. (2021). Memory (encoding, storage, retrieval). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/bdc4uger
+{: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

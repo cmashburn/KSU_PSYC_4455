@@ -29,7 +29,7 @@ Sensory memory refers to *the brief storage of sensory information*. Sensory m
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sperlingTask.jpg" alt="three rows of random upper case letters">
-    <figcaption> Measuring Iconic Memory. Sperling showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory. [2] </figcaption>
+    <figcaption> Measuring Iconic Memory. Sperling (1960) showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory. </figcaption>
 </figure>
 
 
@@ -61,7 +61,7 @@ Short-term memory is limited in both the length and the amount of information it
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/STMDecay.jpg" alt="plot showing short-term memory decay over 18 seconds">
-    <figcaption> STM Decay. Information that is not rehearsed decays quickly from memory [3] </figcaption>
+    <figcaption> STM Decay. Information that is not rehearsed decays quickly from memory [2] </figcaption>
 </figure>
 
 
@@ -103,7 +103,7 @@ Would it help you if I pointed out that the material in this string could be chu
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Chess_simulation.jpg" alt="box diagram of three stages of memory (sensory, short-term, and long-term memory)">
-    <figcaption> Experienced chess players can recall the positions in the top game much better than chess novices can. But experts do no better than novices in remembering the positions on the bottom, which cannot occur in a real game. [4] </figcaption>
+    <figcaption> Experienced chess players can recall the positions in the top game much better than chess novices can. But experts do no better than novices in remembering the positions on the bottom, which cannot occur in a real game. [3] </figcaption>
 </figure>
 
 
@@ -144,12 +144,12 @@ If information makes it past short term-memory it may enter *long-term memory (
 
 ## Image Attributions
 1. Bob Slevc, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), adapted from Atkinson & Shiffrin (1968)
-2. Bob Slevc, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), adapted from Sperling (1960).
-3. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Peterson & Peterson (1959).
-4. Giovannihbartlett, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+2. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Peterson & Peterson (1959).
+3. Giovannihbartlett, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 {: .small}
 
 ## Adapted from
 * [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor. 
+{: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

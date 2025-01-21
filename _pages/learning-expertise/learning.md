@@ -175,10 +175,10 @@ Working memory
 {: .small}
 
 ## Image credits
-1. UBC Learning Commons, https://goo.gl/eT0jvd, CC BY 2.0, https://goo.gl/BRvSA7
-2. Diamondmagna, https://goo.gl/xeUxfw, CC BY-SA 3.0, https://goo.gl/eLCn2O
-3. Cali4beach, https://goo.gl/twjIVg, CC BY 2.0, https://goo.gl/BRvSA7
-4. Andrea Maria Cannata, https://goo.gl/ylTbGG, CC BY-NC 2.0, https://goo.gl/qOP7mj
+1. [UBC Learning Commons](https://goo.gl/eT0jvd), [CC BY 2.0](https://goo.gl/BRvSA7)
+2. [Diamondmagna](https://goo.gl/xeUxfw), [CC BY-SA 3.0](https://goo.gl/eLCn2O)
+3. [Cali4beach](https://goo.gl/twjIVg), [CC BY 2.0](https://goo.gl/BRvSA7)
+4. [Andrea Maria Cannata](https://goo.gl/ylTbGG), [CC BY-NC 2.0](https://goo.gl/qOP7mj)
 {: .small}
 
 Adapted from Benjamin, A. (2021). Factors influencing learning. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/rnxyg6wp

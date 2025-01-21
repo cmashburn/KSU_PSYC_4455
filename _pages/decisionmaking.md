@@ -166,8 +166,8 @@ System 2
 
 ## Image Credits:
 1. [CC0 Public Domain](https://goo.gl/m25gce)
-2. Barn Images, https://goo.gl/IYzbDV, [CC BY 2.0](https://goo.gl/BRvSA7)
-3. Tax Credits, https://goo.gl/YLuyth, [CC BY 2.0](https://goo.gl/BRvSA7)
+2. [Barn Images](https://goo.gl/IYzbDV), [CC BY 2.0](https://goo.gl/BRvSA7)
+3. [Tax Credits](https://goo.gl/YLuyth), [CC BY 2.0](https://goo.gl/BRvSA7)
 {: .small}
 
 ### Adapted from 
