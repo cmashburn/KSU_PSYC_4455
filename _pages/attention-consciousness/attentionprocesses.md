@@ -55,7 +55,7 @@ On the basis of these types of experiments, it seems that we can answer the firs
 Many researchers have investigated how selection occurs and what happens to ignored information. Donald Broadbent was one of the first to try to characterize the selection process. His Filter Model was based on the dichotic listening tasks described above as well as other types of experiments (Broadbent, 1958). He found that people select information on the basis of *physical features*: the sensory channel (or ear) that a message was coming in, the pitch of the voice, the color or font of a visual message. People seemed vaguely aware of the physical features of the unattended information, but had no knowledge of the meaning. As a result, Broadbent argued that selection occurs *very early*, with no additional processing for the unselected information. A flowchart of the model might look like this:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/att1.png" style="width:100%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/att1.png" style="width:100%">
     <figcaption> Figure 1: This figure shows information going in both the left and right ears. Some basic sensory information, such as pitch, is processed, but the filter only allows the information from one ear to be processed further. Only the information from the left ear is transferred to short-term memory (STM) and conscious awareness, and then further processed for meaning. That means that the ignored information never makes it beyond a basic physical analysis.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Anne Treisman (1960) carried out a number of dichotic listening experiments in w
 Results like this, and the fact that you tend to hear meaningful information even when you aren’t paying attention to it, suggest that we *do* monitor the unattended information to some degree on the basis of its meaning. Therefore, the filter theory can’t be right to suggest that unattended information is completely blocked at the sensory analysis level. Instead, Treisman suggested that selection *starts* at the physical or perceptual level, but that the unattended information is not blocked completely, it is just weakened or *attenuated*. As a result, highly meaningful or pertinent information in the unattended ear will get through the filter for further processing at the level of meaning. The figure below shows information going in both ears, and in this case there is no filter that completely blocks nonselected information. Instead, selection of the left ear information strengthens that material, while the nonselected information in the right ear is weakened. However, if the preliminary analysis shows that the nonselected information is especially pertinent or meaningful (such as your own name), then the Attenuation Control will instead strengthen the more meaningful information.
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/att2.png" style="width:100%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/att2.png" style="width:100%">
     <figcaption> Figure 2: Attenuation Model </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Results like this, and the fact that you tend to hear meaningful information eve
 Other selective attention models have been proposed as well. A *late selection* or *response selection* model proposed by Deutsch and Deutsch (1963) suggests that all information in the unattended ear is processed on the basis of meaning, not just the selected or highly pertinent information. However, only the information that is relevant for the task response gets into conscious awareness. This model is consistent with ideas of subliminal perception; in other words, that you don’t have to be aware of or attending a message for it to be fully processed for meaning.
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/att3.png" style="width:100%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/att3.png" style="width:100%">
     <figcaption> Figure 3:  Late Selection Models </figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Is it possible to overcome the limited capacity that we experience when engaging
 ## Divided Attention Tasks
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/multitasking.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/multitasking.jpg" >
     <figcaption> Unless a task is fully automated, some researchers suggest that “multi-tasking” doesn’t really exist; you are just rapidly switching your attention back and forth between tasks.[2] </figcaption>
 </figure>
 In a classic study that examined this type of divided attention task, two participants were trained to take dictation for spoken words while reading unrelated material for comprehension (Spelke, Hirst, & Neisser, 1976). In divided attention tasks such as these, each task is evaluated separately in order to determine baseline performance when the individual can allocate as many cognitive resources as necessary to one task at a time. Then performance is evaluated when the two tasks are performed simultaneously. A decrease in performance for either task would suggest that even if attention can be divided or switched between the tasks, the cognitive demands are too great to avoid disruption of performance. (We should note here that divided attention tasks are designed, in principle, to see if two tasks can be carried out simultaneously. A related research area looks at task switching and how well we can switch back and forth among different tasks (e.g., Monsell, 2003). It turns out that switching itself is cognitively demanding and can impair performance.)
@@ -109,7 +109,7 @@ The focus of the Spelke et al. (1976) study was whether individuals could learn 
 More relevant to our current lifestyles are questions about multitasking while texting or having cell phone conversations. Research designed to investigate, under controlled conditions, multitasking while driving has revealed some surprising results. Certainly there are many possible types of distractions that could impair driving performance, such as applying makeup using the rearview mirror, attempting (usually in vain) to stop the kids in the backseat from fighting, fiddling with music playlists, trying to negotiate a handheld cell phone, a cigarette, and a soda all at once, eating a bowl of cereal while driving (!). But we tend to have a strong sense that we CAN multitask while driving, and cars are being built with more and more technological capabilities that encourage multitasking. How good are we at dividing attention in these cases?
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/texting_and_biking.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/texting_and_biking.jpg" >
     <figcaption> If texting while driving is bad... [3] </figcaption>
 </figure>
 Most people acknowledge the distraction caused by texting while driving and the reason seems obvious: Your eyes are off the road and your hands and at least one hand (often both) are engaged while texting. However, the problem is not simply one of occupied hands or eyes, but rather that the *cognitive* demands on our limited capacity systems can seriously impair driving performance (Strayer, Watson, & Drews, 2011). The effect of a cell phone conversation on performance (such as not noticing someone’s brake lights or responding more slowly to them) is just as significant when the individual is having a conversation with a hands-free device as with a handheld phone; the same impairments do not occur when listening to the radio or a book on tape (Strayer & Johnston, 2001). Moreover, studies using eye-tracking devices have shown that drivers are less likely to later recognize objects that they *did* look at when using a cell phone while driving (Strayer & Drews, 2007). These findings demonstrate that cognitive distractions such as cell phone conversations can produce inattentional blindness, or a lack of awareness of what is right before your eyes (see also, Simons & Chabris, 1999). Sadly, although we all like to think that we can multitask while driving, in fact the percentage of people who can truly perform cognitive tasks without impairing their driving performance is estimated to be about 2% (Watson & Strayer, 2010).
