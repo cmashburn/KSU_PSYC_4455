@@ -52,7 +52,7 @@ One of the problems with explaining how cognition works is that cognitive system
 
 ### Levels of Analysis
 
-A common approach to explanation in cognition invokes the concept of multiple levels of analysis (Marr, 1982). For example, vision scientist David Marr described three levels of analysis for the task of explaining visual perception from a computational perspective.
+A common approach to explanation in cognition invokes the concept of multiple levels of analysis. For example, vision scientist David Marr described three levels of analysis for the task of explaining visual perception from a computational perspective (Marr, 1982).
 
 Consider first that vision involves a series of transformations beginning at the moment when light hits the retina. From there, photoreceptors in your eyes convert light into electrical impulses sent through the optic nerve, past the optic chiasm, where they are received by neurons in the lateral geniculate nucleus in the thalamus, which is further connected to primary visual areas at the back of the brain. Somehow the visual processing pathways of the brain turn patterns of light falling on the retina into perceptions.
 
@@ -66,7 +66,7 @@ Marr likened visual processing to information processing in a computer system, a
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/marr_fig.jpg" alt="Example of Marr's levels of analysis.">
-    <figcaption> How bird flight (left) and some cognitive processes (right) might be analyzed based on Marr's three levels. [3]</figcaption>
+    <figcaption> Left: How bird flight might be analyzed based on Marr's three levels. If a bird has a (computational) goal to fly, it can accomplish this by (the algorithm of) flapping its wings, which works because the aerodynamics of flight depend on the (implementation of) aeroelastic deformation of flexible feathers (Tobalske, 2022). Right: How some cognitive processes might similarly be analyzed based on Marr's levels [3]</figcaption>
 </figure>
 
 Of course, it would be great to have explanations that span all three levels of analysis, but that's a tall order! Practically, much can be gained by focusing on a single level of analysis. For example, classical genetics allows us to predict how inherited traits are distributed without an understanding of DNA. More generally, as suggested above, explanations at one level can be "multiply realized" at other levels. That is, there are many potential implementations for a given algorithm and many potential algorithms for a given computational goal. For example, if I have a (computational level) goal to travel to the beach, I can realize that goal algorithmically by driving a car, flying in an airplane, maybe riding a bike, etc. And if I drive, I could realize that algorithm by relying on power stemming from a series of controlled explosions in an internal combustion engine or on power stemming from the conversion of chemical energy to electricity in an electric engine. Thus an explanation at one level of analysis can be (at least somewhat) independent from explanations at other levels.
@@ -107,8 +107,8 @@ However, it is important to realize that cognitive research has not always had u
 
 ## Image credits
 1. Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-2. Frits Ahlefeldt, https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
-3. Modeled after Figure 1 from [Lockwood, Apps, & Chang (2020)](https://doi.org/10.1016/j.tics.2020.06.011) by Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+2. [Frits Ahlefeldt](https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+3. Modeled from Figure 1 in [Lockwood, Apps, & Chang (2020)](https://doi.org/10.1016/j.tics.2020.06.011) by Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 {: .small}
 
 ##  References
