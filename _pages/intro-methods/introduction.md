@@ -186,6 +186,7 @@ However, it is important to realize that cognitive research has not always had u
 * Thomas, A. K., McKinney de Royston, M., & Powell, S. (2023). Color-evasive cognition: The unavoidable impact of scientific racism in the founding of a field. Current Directions in Psychological Science, 32, 137-144.
 * Thompson, R. F. (1986) The neurobiology of learning and memory. Science 29: 941 – 947. 
 * Tinklepaugh, O. L. (1928) An experimental study of representative factors in monkeys, Journal of Comparative Psychology 8: 197–236. 
+* Tobalske, B. W. (2022). Aerodynamics of avian flight. Current Biology, 32(20): R1105 - R1109
 * Treisman, A. M. (1969) Strategies and models of selective attention. Psychological Review 76: 282-299. 
 * Tulving, E. (1962). Subjective organization in free recall of "unrelated" words. Psychological Review 69: 344-354. 
 * Tulving, E., Gordon Hayman, C. A. and MacDonald, C. A. (1991) Long-lasting perceptual priming and semantic learning in amnesia, A case experiment. Journal of Experimental Psychology 17: 595-617. 
