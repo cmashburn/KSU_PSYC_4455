@@ -10,7 +10,7 @@ sidebar:
 Human language is arguably the most complex behavior on the planet. Language involves both the ability to comprehend spoken and written words and to create communication in real time when we speak or write. Most languages are oral, generated through speaking. Speaking involves a variety of complex cognitive, social, and biological processes including operation of the vocal cords, and the coordination of breath with movements of the throat and mouth, and tongue. Other languages are sign languages, in which the communication is expressed by movements of the hands. The most commonly signed sign language is [American Sign Language (ASL)](https://www.nidcd.nih.gov/health/american-sign-language), currently used by nearly 3% of the adult population in the United States alone (Mitchell & Young, 2022). 
 
 ## Learning Objectives
-* Define language and demonstrate familiarity with the components of language
+* Define language and gain familiarity with the components of language
 * Understand the challenges of speech perception
 * Explain categorical perception and some top-down influences on speech perception
 * Consider the relationship between language and thinking	
@@ -52,7 +52,7 @@ Despite these problems, we still correctly identify speech sounds even when they
 
 One might think that we can do this because, despite this variability, speech sounds are characterized by some kind of *invariants* - i.e., some acoustic property that, for each sound, uniquely identifies it as being that particular sound. That is, there might be some core acoustic property, or properties, that is essential to speech perception. However, despite decades of research, very few invariant properties in the speech signal have been found. As Nygaard and Pisoni (1995) put it:
 
->At first glance, the solution to the problem of how we perceive speech seems deceptively simple. If one could identify stretches of the acoustic waveform that correspond to units of perception, then the path from sound to meaning would be clear. However, this correspondence or mapping has proven extremely difficult to find, even after some forty-five years of research on the problem.</blockquote>
+> At first glance, the solution to the problem of how we perceive speech seems deceptively simple. If one could identify stretches of the acoustic waveform that correspond to units of perception, then the path from sound to meaning would be clear. However, this correspondence or mapping has proven extremely difficult to find, even after some forty-five years of research on the problem.
 
 This reflects both a *one-to-many* and a *many-to-one* problem. The *one-to-many* problem is that a particular acoustic aspect of the speech signal can cue multiple different linguistically relevant dimensions. For example, the duration of a vowel in English can indicate whether or not the vowel is stressed, or whether it is in a syllable closed by (~ending with) a voiced or a voiceless consonant, and in some cases (like American English /ɛ/ and /æ/) it can distinguish the identity of vowels (Klatt, 1976). A second reason is the converse, a *many-to-one* problem: a particular linguistic unit can be cued by several different acoustic properties. For example, the figure below shows how the onset formant transitions of /d/ differ depending on the following vowel but they are all interpreted as the phoneme /d/ by listeners (Liberman, 1957).
 
@@ -79,7 +79,7 @@ On top of the lack of invariance of individual speech sounds, we somehow must be
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Spectrogram_of_I_owe_you.png" alt="A spectrogram of the phrase I owe you.">
-    <figcaption>A spectrogram of the phrase *I owe you*. There are no clearly distinguishable boundaries between speech sounds. [3]</figcaption>
+    <figcaption>A spectrogram of the phrase "I owe you". There are no clearly distinguishable boundaries between speech sounds. [3]</figcaption>
 </figure>
 
 Because the speech signal is not linear, this leads to the **segmentation problem**. It is difficult to delimit a stretch of speech signal as belonging to a single perceptual unit. Instead, the acoustic properties of phonemes blend together and depend on the context (because, e.g., of coarticulation, discussed above).
